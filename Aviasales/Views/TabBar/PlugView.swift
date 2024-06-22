@@ -11,6 +11,7 @@ struct PlugView: View {
     var body: some View {
         Text("Экран находится в разработке...")
     }
+    
 }
 
 #Preview {
